@@ -24,7 +24,6 @@ Python: pandas, numpy, seaborn, matplotlib
 ---
 
 📂 Dataset del proyecto
-Dataset del proyecto
 Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
 
 📏 Tamaño: 15,000 filas
@@ -34,17 +33,11 @@ Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
 
 ## 📂 Contenido del repositorio
 
-- `data_cleaning_eda_ecommerce.ipynb`
+- `NovaRetail_factores_comportamineto.ipynb`
   → Notebook  completo de limpieza y análisis exploratorio de datos (EDA) hasta la generación de insights listos para tomar decisiones de negocio.
 
-- `Dashboard Rappi.pbix`
-  → Archivo que contiene el dashboard para descarga/lectura en PowerBI.
-
-- `Dashboard.md`
-  → Notebook que describe el proceso de creacion completo y logica del dashboard.
-
-- `screenshots`
-  → Referencias visuales para el dashboard.    
+- `data`
+  → Carpeta que contiene los documentos csv necesarios para reproducir el analisis.   
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
@@ -59,7 +52,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `data_cleaning_eda_ecommerce.ipynb`
+1. Abre `NovaRetail_factores_comportamineto.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
