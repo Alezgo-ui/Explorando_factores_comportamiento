@@ -24,6 +24,7 @@ Python: pandas, numpy, seaborn, matplotlib
 ---
 
 📂 Dataset del proyecto
+
 Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
 
 📏 Tamaño: 15,000 filas
