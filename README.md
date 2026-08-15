@@ -44,7 +44,7 @@ Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Alezgo-ui/adb_mobility_economy_project/blob/main/adb_mobility_economy_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alezgo-ui/Explorando_factores_comportamiento/blob/main/NovaRetail_factores_comportamineto.ipynb)
 
 O:
 
